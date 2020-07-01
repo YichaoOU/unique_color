@@ -1,5 +1,9 @@
 from setuptools import setup, find_packages
 
+# 10 unique dark colors
+# color_list=["#ad4545","#379e7d","#1c7caf","#000000","#6f1a52","#476aae","#e6521c","#e1609f","#149c98","#3b0056"]
+# sns.palplot(color_list)
+
 setup(
     name='unique_color',
     version='1.0',
